@@ -1,6 +1,6 @@
 # AI-Based Cybersecurity Threat Prediction Agent
 
-## 🚀 Overview
+##  Overview
 
 This is an advanced, AI-powered cybersecurity threat prediction and monitoring system. It processes real-time data from network sources, analyzes anomalies, predicts potential threats, and provides actionable insights through dashboards, live monitoring tools, and automated reports.
 
@@ -14,7 +14,7 @@ This project includes:
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 ### **Backend**
 
@@ -112,7 +112,7 @@ MY_FIRST/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### **Prerequisites**
 
@@ -196,7 +196,7 @@ This repository includes detailed guides:
 
 ---
 
-## 🧠 Features
+## Features
 
 * Real-time threat prediction
 * VPN/WiFi anomaly detection
@@ -207,7 +207,7 @@ This repository includes detailed guides:
 
 ---
 
-## 🚧 Future Enhancements
+## Future Enhancements
 
 * Cloud deployment (AWS/GCP/Azure)
 * SIEM integration
